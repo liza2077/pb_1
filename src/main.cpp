@@ -65,7 +65,7 @@ while(BeepersPresent()==true) {
 /// Стартовая функция
 ///
 int main() {
-    LoadWorld("worlds/CB_03.w");
+    LoadWorld("worlds/CB_02.w");
     KarelProgram();
     Finish();
     return 0;
